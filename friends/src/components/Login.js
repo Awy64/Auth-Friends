@@ -41,7 +41,7 @@ const Login = props => {
           onChange={handleChange}
           placeholder="password"
         />
-        <button>Log In</button>
+        <Button>Log In</Button>
       </form>
     </div>
 
